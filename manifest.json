@@ -1,0 +1,38 @@
+{
+  "name": "ModeloPWA",
+  "short_name": "PA",
+  "theme_color": "#171717",
+  "background_color": "#fff",
+  "display": "standalone",
+  "orientation": "landscape",
+  "Scope": ".",
+  "start_url": "/index.php?pwa=true",
+  "icons": [
+    {
+      "src": "img/ico_and_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "img/ico_and_154.png",
+      "sizes": "154x154",
+      "type": "image/png"
+    },
+    {
+      "src": "img/ico_and_144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "img/ico_and_114.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+    {
+      "src": "img/ico_and_72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
